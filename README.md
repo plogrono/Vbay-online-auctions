@@ -10,3 +10,4 @@ conceptual data model of the business processes supporting vBay are:
   
 _This database was created by Professor Michael Fudge, one of the professors in the Master's program I completed at Syracuse.
 The data is in the Microsoft SQL Server Database Management System,  and the client I am using to connect is Azure Data Studio.  This project is based on two homework assignments I merged together._ 
+
