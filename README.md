@@ -6,7 +6,7 @@ conceptual data model of the business processes supporting vBay are:
 * Users post items for sale as sellers.
 * Users place bids on items as buyers.
 * The highest bid “wins” the item, and that user buys it.
-* Users rate each other as buyers and sellers.\
+* Users rate each other as buyers and sellers.
   
 _This database was created by Professor Michael Fudge, one of the professors in the Master's program I completed at Syracuse.
 The data is in the Microsoft SQL Server Database Management System,  and the client I am using to connect is Azure Data Studio.  This project is based on two homework assignments I merged together._ 
