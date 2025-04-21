@@ -12,4 +12,6 @@ _This database was created by Professor Michael Fudge, one of the professors in 
 The data is in the Microsoft SQL Server Database Management System,  and the client I am using to connect is Azure Data Studio.  This project is based on two homework assignments I merged together._ 
 
 First part of markdown is getting to know my data. 
-To jump to first set of Questions, click here: https://github.com/plogrono/Vbay-online-auctions/blob/d71b7214882200f05ec771b42fee5a8033836234/Vbay%20project.sql#L121
+
+## To jump to the first set of business-related questions, click here: https://github.com/plogrono/Vbay-online-auctions/blob/d71b7214882200f05ec771b42fee5a8033836234/Vbay%20project.sql#L121
+## To jump to the second set of business-related questions for more complex queries, click here: https://github.com/plogrono/Vbay-online-auctions/blob/d71b7214882200f05ec771b42fee5a8033836234/Vbay%20project.sql#L338
